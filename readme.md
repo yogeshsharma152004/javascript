@@ -22,5 +22,9 @@
 
 [else if](./cpmparison02.js)
 
+## switch case
+
+[switch case](./switchcase.js)
+
 
 

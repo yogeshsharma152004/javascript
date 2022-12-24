@@ -1,0 +1,1 @@
+// Ternary condition or oprater
