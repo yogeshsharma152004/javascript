@@ -26,5 +26,9 @@
 
 [switch case](./switchcase.js)
 
+## Ternary operator
+
+[Ternary operator](./ternary_operator.js)
+
 
 
