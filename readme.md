@@ -30,5 +30,13 @@
 
 [Ternary operator](./ternary_operator.js)
 
+##  Date
+
+[Date](./date.js)
+
+## Math
+
+[Math](./math.js)
+
 
 
