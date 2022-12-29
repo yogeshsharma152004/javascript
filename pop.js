@@ -7,3 +7,15 @@ console.log(maths)*/
 
 let arr1 = names.split();
 console.log(arr1)*/
+
+let names = ['yogesh','yash','rahul','anuj','dhruv'];
+
+let uppername = [];
+
+for (let bigname of names){
+
+    uppername.push(bigname.toUpperCase())
+
+}
+
+console.log(uppername)
