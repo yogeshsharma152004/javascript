@@ -24,5 +24,12 @@ console.log("my first name is",firstname)
 console.log("my lastname is ",lastname)
 console.log("my contact number is ",mobilenumber)
 
+let a = prompt("Enter the number")
+let  i = 0
+while(i<a){
+    console.log(i)
+    
+}
+
 
 
