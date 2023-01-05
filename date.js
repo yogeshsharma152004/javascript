@@ -41,3 +41,6 @@ console.log(now.getMinutes());
 //for seconds
 
 console.log(now.getSeconds());
+
+
+
