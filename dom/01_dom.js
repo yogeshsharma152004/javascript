@@ -12,6 +12,7 @@ const randomColor = () => {
 console.log(randomColor());
 
 function changeRandomColor() {
+    document.getElementById('button').style.backgroundColor = randomColor();
     document.body.style.backgroundColor = randomColor();
 }
 
